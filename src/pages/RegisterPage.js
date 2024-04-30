@@ -18,6 +18,8 @@ export default function RegisterPage() {
     }
   }
 
+  // a
+
   return (
     <form className="register" onSubmit={register}>
       <h1>Register</h1>
